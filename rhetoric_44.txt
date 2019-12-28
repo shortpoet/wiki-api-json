@@ -1,44 +1,44 @@
-synchoresis
-erotesis
-epitrope
-epiplexis
-proslepsis
-epicrisis
-distinctio
-praeteritio
-dirimens copulatio
-syncatabasis
-transferred epithet
-diatyposis
-dehortatio
-par'hyponoian
-erotema
-categoria
-dubitatio
-denominatio
-antistasis
-correctio
-paronomasia
-sesquipedalianism
-tricolon
-tricolon
-apostrophe (rhetoric)
-paradiastole
-congeries
-prothesis
-burlesque metaphor
-synathroesmus
-enumeratio
-hypocatastasis
-syllepsis
-procatalepsis
-paralipsis
-sine dicendo
-exclamation
-synonymia
-hypophora
-paroemion
-appositive
-anacoenosis
-asterismos
-epanorthosis
+synesthesia
+anthropomorphism
+metaphor
+neologism
+satire
+metonymy
+onomatopoeia
+allegory
+euphemism
+irony
+aphorism
+humour
+synecdoche
+pun
+spoonerism
+malapropism
+proverb
+parody
+rhythm
+oxymoron
+analogy
+alliteration
+mimesis
+paraprosdokian
+innuendo
+non sequitur (literary device)
+hyperbole
+cliché
+pleonasm
+snowclone
+simile
+parable
+kenning
+rhetorical question
+allusion
+aporia
+double negative
+pathetic fallacy
+elision
+chiasmus
+antithesis
+litotes
+assonance
+dysphemism
