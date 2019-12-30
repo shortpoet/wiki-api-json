@@ -1,0 +1,144 @@
+Rome, Lazio
+Milan, Lombardy
+Naples, Campania
+Turin, Piedmont
+Palermo, Sicily
+Genoa, Liguria
+Bologna, Emilia-Romagna
+Florence, Tuscany
+Bari, Apulia
+Catania, Sicily
+Venice, Veneto
+Verona, Veneto
+Messina, Sicily
+Padua, Veneto
+Trieste, Friuli-Venezia Giulia
+Brescia, Lombardy
+Taranto, Apulia
+Parma, Emilia-Romagna
+Prato, Tuscany
+Modena, Emilia-Romagna
+Reggio Calabria, Calabria
+Reggio Emilia, Emilia-Romagna
+Perugia, Umbria
+Livorno, Tuscany
+Ravenna, Emilia-Romagna
+Cagliari, Sardinia
+Foggia, Apulia
+Rimini, Emilia-Romagna
+Salerno, Campania
+Ferrara, Emilia-Romagna
+Sassari, Sardinia
+Latina, Lazio
+Giugliano in Campania, Campania
+Monza, Lombardy
+Syracuse, Sicily
+Bergamo, Lombardy
+Pescara, Abruzzo
+Trento, Trentino-Alto Adige
+Forlì, Emilia-Romagna
+Vicenza, Veneto
+Terni, Umbria
+Bolzano, Trentino-Alto Adige
+Novara, Piedmont
+Piacenza, Emilia-Romagna
+Ancona, Marche
+Andria, Apulia
+Udine, Friuli-Venezia Giulia
+Arezzo, Tuscany
+Cesena, Emilia-Romagna
+Lecce, Apulia
+Pesaro, Marche
+Barletta, Apulia
+Alessandria, Piedmont
+La Spezia, Liguria
+Pistoia, Tuscany
+Pisa, Tuscany
+Catanzaro, Calabria
+Guidonia Montecelio, Lazio
+Lucca, Tuscany
+Brindisi, Apulia
+Torre del Greco, Campania
+Treviso, Veneto
+Busto Arsizio, Lombardy
+Como, Lombardy
+Marsala, Sicily
+Grosseto, Tuscany
+Sesto San Giovanni, Lombardy
+Pozzuoli, Campania
+Varese, Lombardy
+Fiumicino, Lazio
+Casoria, Campania
+Asti, Piedmont
+Cinisello Balsamo, Lombardy
+Caserta, Campania
+Gela, Sicily
+Aprilia, Lazio
+Ragusa, Sicily
+Pavia, Lombardy
+Cremona, Lombardy
+Carpi, Emilia-Romagna
+Quartu Sant'Elena, Sardinia
+Lamezia Terme, Calabria
+Altamura, Apulia
+Imola, Emilia-Romagna
+L’Aquila, Abruzzo
+Massa, Tuscany
+Trapani, Sicily
+Viterbo, Lazio
+Cosenza, Calabria
+Potenza, Basilicata
+Castellammare di Stabia, Campania
+Afragola, Campania
+Vittoria, Sicily
+Crotone, Calabria
+Pomezia, Lazio
+Vigevano, Lombardy
+Carrara, Tuscany
+Caltanissetta, Sicily
+Viareggio, Tuscany
+Fano, Marche
+Savona, Liguria
+Matera, Basilicata
+Olbia, Sardinia
+Legnano, Lombardy
+Acerra, Campania
+Marano di Napoli, Campania
+Benevento, Campania
+Molfetta, Apulia
+Agrigento, Sicily
+Faenza, Emilia-Romagna
+Cerignola, Apulia
+Moncalieri, Piedmont
+Foligno, Umbria
+Manfredonia, Apulia
+Tivoli, Lazio
+Cuneo, Piedmont
+Trani, Apulia
+Bisceglie, Apulia
+Bitonto, Apulia
+Bagheria, Sicily
+Anzio, Lazio
+Portici, Campania
+Modica, Sicily
+Sanremo, Liguria
+Avellino, Campania
+Teramo, Abruzzo
+Montesilvano, Abruzzo
+Siena, Tuscany
+Gallarate, Lombardy
+Velletri, Lazio
+Cava de' Tirreni, Campania
+San Severo, Apulia
+Aversa, Campania
+Ercolano, Campania
+Civitavecchia, Lazio
+Acireale, Sicily
+Mazara del Vallo, Sicily
+Rovigo, Veneto
+Pordenone, Friuli-Venezia Giulia
+Battipaglia, Campania
+Rho, Lombardy
+Chieti, Abruzzo
+Scafati, Campania
+Scandicci, Tuscany

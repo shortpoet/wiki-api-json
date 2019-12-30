@@ -1,0 +1,391 @@
+Madrid, Madrid, 0.1024
+Barcelona, Barcelona, 0.05131
+Valencia, Valencia, 0.0249
+Sevilla, Sevilla, 0.02159
+Zaragoza, Zaragoza, 0.02116
+Málaga, Málaga, 0.01802
+Murcia, Murcia, 0.01421
+Palma de Mallorca, Islas Baleares, 0.01304
+Las Palmas de Gran Canaria, Las Palmas, 0.01191
+Bilbao, Vizcaya, 0.01087
+Alicante, Alicante, 0.0105
+Córdoba, Córdoba, 0.01021
+Valladolid, Valladolid, 0.00936
+Vigo, Pontevedra, 0.00926
+Gijón, Asturias, 0.00852
+Hospitalet de Llobregat, Barcelona, 0.00831
+Vitoria, Álava, 0.00789
+La Coruña, La Coruña, 0.0077
+Elche, Alicante, 0.00729
+Granada, Granada, 0.00729
+Tarrasa, Barcelona, 0.00691
+Badalona, Barcelona, 0.00691
+Oviedo, Asturias, 0.00689
+Cartagena, Murcia, 0.00673
+Sabadell, Barcelona, 0.0067
+Jerez de la Frontera, Cádiz, 0.00667
+Móstoles, Madrid, 0.00656
+Santa Cruz de Tenerife, Santa Cruz de Tenerife, 0.0065
+Pamplona, Navarra, 0.00632
+Almería, Almería, 0.00622
+Alcalá de Henares, Madrid, 0.00613
+Fuenlabrada, Madrid, 0.00607
+Leganés, Madrid, 0.00595
+San Sebastián, Guipúzcoa, 0.00588
+Getafe, Madrid, 0.00575
+Burgos, Burgos, 0.00551
+Albacete, Albacete, 0.00543
+Santander (España)|Santander, Cantabria, 0.00541
+Castellón de la Plana, Castellón, 0.00538
+Alcorcón, Madrid, 0.00535
+San Cristóbal de La Laguna, Santa Cruz de Tenerife, 0.00494
+Badajoz, Badajoz, 0.00472
+Salamanca, Salamanca, 0.00452
+Huelva, Huelva, 0.0045
+Marbella, Málaga, 0.0045
+Lérida, Lérida, 0.00436
+Tarragona, Tarragona, 0.00422
+Dos Hermanas, Sevilla, 0.0042
+Torrejón de Ardoz, Madrid, 0.00412
+Parla, Madrid, 0.00408
+Mataró, Barcelona, 0.00402
+León, León, 0.0039
+Algeciras, Cádiz, 0.00382
+Santa Coloma de Gramanet, Barcelona, 0.00374
+Alcobendas, Madrid, 0.00367
+Cádiz, Cádiz, 0.00364
+Jaén, Jaén, 0.00354
+Orense, Orense, 0.0033
+Reus, Tarragona, 0.00327
+Telde, Las Palmas, 0.00322
+Gerona, Gerona, 0.00319
+Baracaldo, Vizcaya, 0.00316
+Lugo, Lugo, 0.00307
+Santiago de Compostela, La Coruña, 0.00302
+Cáceres, Cáceres, 0.00301
+Las Rozas de Madrid, Madrid, 0.003
+San Fernando, Cádiz, 0.00298
+Roquetas de Mar, Almería, 0.00298
+Lorca, Murcia, 0.00292
+San Cugat del Vallés, Barcelona, 0.00284
+El Puerto de Santa María, Cádiz, 0.00277
+San Sebastián de los Reyes, Madrid, 0.00275
+Cornellá de Llobregat, Barcelona, 0.00273
+Melilla, Melilla, 0.00271
+Pozuelo de Alarcón, Madrid, 0.0027
+Rivas-Vaciamadrid, Madrid, 0.00269
+Ceuta, Ceuta, 0.00267
+Guadalajara, Guadalajara, 0.00266
+El Ejido, Almería, 0.00266
+Toledo, Toledo, 0.00264
+Chiclana de la Frontera, Cádiz, 0.00263
+Talavera de la Reina, Toledo, 0.0026
+San Baudilio de Llobregat, Barcelona, 0.0026
+Pontevedra, Pontevedra, 0.0026
+Torrevieja, Alicante, 0.00259
+Coslada, Madrid, 0.00257
+Torrente, Valencia, 0.00255
+Vélez-Málaga, Málaga, 0.00253
+Mijas, Málaga, 0.00253
+Arona, Santa Cruz de Tenerife, 0.00249
+Avilés, Asturias, 0.00247
+Palencia, Palencia, 0.00247
+Guecho, Vizcaya, 0.00245
+Orihuela, Alicante, 0.00241
+Rubí, Barcelona, 0.0024
+Manresa, Barcelona, 0.00239
+Fuengirola, Málaga, 0.00236
+Alcalá de Guadaíra, Sevilla, 0.00236
+Valdemoro, Comunidad de Madrid, 0.00234
+Ciudad Real, Ciudad Real, 0.00234
+Gandía, Valencia, 0.00231
+Santa Lucía de Tirajana, Las Palmas, 0.00225
+Majadahonda, Madrid, 0.00225
+Molina de Segura, Murcia, 0.00222
+Paterna, Valencia, 0.00217
+Torremolinos, Málaga, 0.00214
+Sanlúcar de Barrameda, Cádiz, 0.00213
+Benalmádena, Málaga, 0.00212
+Benidorm, Alicante, 0.00212
+Estepona, Málaga, 0.0021
+Ferrol, La Coruña, 0.00209
+Casteldefels, Barcelona, 0.00208
+Villanueva y Geltrú, Barcelona, 0.00208
+Viladecans, Barcelona, 0.00207
+Sagunto, Valencia, 0.00206
+Ponferrada, León, 0.00205
+El Prat de Llobregat, Barcelona, 0.00201
+Collado Villalba, Madrid, 0.00198
+La Línea de la Concepción, Cádiz, 0.00197
+Irún, Guipúzcoa, 0.00194
+Zamora, Zamora, 0.00194
+Arrecife, Las Palmas, 0.00192
+Granollers, Barcelona, 0.00191
+Motril, Granada, 0.0019
+Mérida, Badajoz, 0.00186
+Aranjuez, Madrid, 0.00185
+Alcoy, Alicante, 0.00185
+Linares, Jaén, 0.00181
+San Vicente del Raspeig, Alicante, 0.00181
+Sardañola del Vallés, Barcelona, 0.00181
+Ávila, Ávila, 0.00181
+Cuenca, Cuenca, 0.00172
+Arganda del Rey, Comunidad de Madrid, 0.00171
+San Bartolomé de Tirajana, Las Palmas, 0.00168
+Boadilla del Monte, Comunidad de Madrid, 0.00165
+Utrera, Sevilla, 0.00165
+Huesca, Huesca, 0.00164
+Elda, Alicante, 0.00164
+Torrelavega, Cantabria, 0.00162
+Segovia, Segovia, 0.00162
+Siero, Asturias, 0.00162
+Pinto, Comunidad de Madrid, 0.00162
+Mollet del Vallés, Barcelona, 0.0016
+Villarreal, Castellón, 0.00159
+Ibiza, Islas Baleares, 0.00155
+Puertollano, Ciudad Real, 0.00154
+Calviá, Islas Baleares, 0.00154
+Colmenar Viejo, Madrid, 0.00151
+Adeje, Santa Cruz de Tenerife, 0.00148
+Portugalete, Vizcaya, 0.00145
+Gavá, Barcelona, 0.00145
+Santurce, Vizcaya, 0.00144
+Esplugas de Llobregat, Barcelona, 0.00143
+Figueras, Gerona, 0.00143
+Granadilla de Abona, Santa Cruz de Tenerife, 0.00142
+Mairena del Aljarafe, Sevilla, 0.00141
+Tres Cantos, Madrid, 0.0014
+Alcira, Valencia, 0.00139
+San Feliú de Llobregat, Barcelona, 0.00138
+Rincón de la Victoria, Málaga, 0.00138
+Vich, Barcelona, 0.00136
+Mislata, Valencia, 0.00135
+Lucena, Córdoba, 0.00134
+Puerto Real, Cádiz, 0.0013
+Denia, Alicante, 0.0013
+Langreo, Asturias, 0.00129
+Alcantarilla, Murcia, 0.00129
+Antequera, Málaga, 0.00129
+Basauri, Vizcaya, 0.00128
+Plasencia, Cáceres, 0.00127
+Manacor, Islas Baleares, 0.00126
+Écija, Sevilla, 0.00126
+San Fernando de Henares, Madrid, 0.00126
+Mieres, Asturias, 0.00124
+Rentería, Guipúzcoa, 0.00123
+Villafranca del Panadés, Barcelona, 0.00123
+Soria, Soria, 0.00123
+Narón, La Coruña, 0.00123
+Blanes, Gerona, 0.00122
+Igualada, Barcelona, 0.00122
+Alhaurín de la Torre, Málaga, 0.00122
+La Rinconada, Sevilla, 0.0012
+Los Palacios y Villafranca, Sevilla, 0.0012
+Puerto del Rosario, Las Palmas, 0.0012
+Andújar, Jaén, 0.00119
+Ripollet, Barcelona, 0.00118
+Burjasot, Valencia, 0.00117
+Arucas, Las Palmas, 0.00117
+Villagarcía de Arosa, Pontevedra, 0.00117
+Don Benito, Badajoz, 0.00116
+Lloret de Mar, Gerona, 0.00116
+Tomelloso, Ciudad Real, 0.00115
+San Adrián de Besós, Barcelona, 0.00114
+Vendrell, Tarragona, 0.00114
+Los Realejos, Santa Cruz de Tenerife, 0.00113
+Santa Eulalia del Río, Islas Baleares, 0.00113
+Marrachí, Islas Baleares, 0.00113
+Miranda de Ebro, Burgos, 0.00113
+Onteniente, Valencia, 0.00111
+Teruel, Teruel, 0.00111
+Tudela, Navarra, 0.0011
+Cieza, Murcia, 0.0011
+Lluchmayor, Islas Baleares, 0.0011
+Oleiros, La Coruña, 0.0011
+Úbeda, Jaén, 0.00109
+Moncada y Reixach, Barcelona, 0.00109
+Águilas, Murcia, 0.00109
+Azuqueca de Henares, Guadalajara, 0.00109
+Burriana, Castellón, 0.00109
+Torre Pacheco, Murcia, 0.00109
+Almendralejo, Badajoz, 0.00108
+Petrel, Alicante, 0.00108
+Ronda, Málaga, 0.00108
+Villena, Alicante, 0.00107
+Yecla, Murcia, 0.00107
+Olot, Gerona, 0.00107
+Tortosa, Tarragona, 0.00106
+Villajoyosa, Alicante, 0.00105
+San Juan Despí, Barcelona, 0.00105
+Cambrils, Tarragona, 0.00104
+Barberá del Vallés, Barcelona, 0.00103
+Aranda de Duero, Burgos, 0.00102
+Galapagar, Madrid, 0.00102
+Castro Urdiales, Cantabria, 0.001
+Vall de Uxó, Castellón, 0.001
+San Javier, Murcia, 0.001
+San Andrés del Rabanedo, León, 0.00099
+Santa Pola, Alicante, 0.00098
+Carballo, La Coruña, 0.00098
+Aldaya, Valencia, 0.00098
+Arteixo, La Coruña, 0.00098
+Arcos de la Frontera, Cádiz, 0.00098
+Totana, Murcia, 0.00097
+Alcázar de San Juan, Ciudad Real, 0.00097
+Inca, Islas Baleares, 0.00097
+Lejona, Vizcaya, 0.00097
+Agüimes, Las Palmas, 0.00096
+Manises, Valencia, 0.00096
+Mazarrón, Murcia, 0.00096
+Camargo, Cantabria, 0.00096
+Ames, La Coruña, 0.00096
+Hellín, Albacete, 0.00095
+Coria del Río, Sevilla, 0.00095
+Ingenio, Las Palmas, 0.00095
+Valdepeñas, Ciudad Real, 0.00095
+Puente Genil, Córdoba, 0.00094
+San Pedro de Ribas, Barcelona, 0.00094
+Alacuás, Valencia, 0.00093
+Culleredo, La Coruña, 0.00093
+San Roque, Cádiz, 0.00093
+Redondela, Pontevedra, 0.00093
+Puerto de la Cruz, Santa Cruz de Tenerife, 0.00092
+Salt, Gerona, 0.00092
+Galdácano, Vizcaya, 0.00092
+Durango, Vizcaya, 0.00091
+Rota, Cádiz, 0.00091
+Játiva, Valencia, 0.00091
+Chirivella, Valencia, 0.0009
+Crevillente, Alicante, 0.0009
+Ciudadela, Islas Baleares, 0.0009
+Carmona, Sevilla, 0.0009
+Níjar, Almería, 0.0009
+Sitges, Barcelona, 0.00089
+Vinaroz, Castellón, 0.00089
+Mahón, Islas Baleares, 0.00088
+Sueca, Valencia, 0.00088
+Morón de la Frontera, Sevilla, 0.00088
+San Vicente dels Horts, Barcelona, 0.00088
+Premiá de Mar, Barcelona, 0.00087
+Sestao, Vizcaya, 0.00087
+Catarroja, Valencia, 0.00087
+Martorell, Barcelona, 0.00087
+Algemesí, Valencia, 0.00087
+San Andrés de la Barca, Barcelona, 0.00086
+Lepe, Huelva, 0.00086
+Lebrija, Sevilla, 0.00086
+Almuñécar, Granada, 0.00086
+Campello, Alicante, 0.00086
+Éibar, Guipúzcoa, 0.00086
+Villaviciosa de Odón, Madrid, 0.00086
+Camas, Sevilla, 0.00085
+Riveira, La Coruña, 0.00085
+Jávea, Alicante, 0.00085
+Navalcarnero, Madrid, 0.00085
+Candelaria, Santa Cruz de Tenerife, 0.00084
+Illescas, Toledo, 0.00084
+Cangas de Morrazo, Pontevedra, 0.00083
+Benicarló, Castellón, 0.00083
+Salou, Tarragona, 0.00083
+Pineda de Mar, Barcelona, 0.00082
+Novelda, Alicante, 0.00082
+Villanueva de la Serena, Badajoz, 0.00081
+San José, Islas Baleares, 0.00081
+Oliva, Valencia, 0.00081
+Almazora, Castellón, 0.0008
+Caravaca de la Cruz, Murcia, 0.0008
+Villarrobledo, Albacete, 0.0008
+Santa Perpetua de Moguda, Barcelona, 0.0008
+Jumilla, Murcia, 0.0008
+Molins de Rey, Barcelona, 0.0008
+Paiporta, Valencia, 0.00079
+Vícar, Almería, 0.00078
+Marín, Pontevedra, 0.00078
+Onda, Castellón, 0.00078
+Tomares, Sevilla, 0.00078
+Cártama, Málaga, 0.00078
+Almansa, Albacete, 0.00078
+Cuart de Poblet, Valencia, 0.00078
+Adra, Almería, 0.00077
+San Pedro del Pinatar, Murcia, 0.00077
+Piélagos, Cantabria, 0.00077
+La Oliva, Las Palmas, 0.00077
+Muchamiel, Alicante, 0.00077
+San Antonio Abad, Islas Baleares, 0.00077
+Alhaurín el Grande, Málaga, 0.00076
+Gáldar, Las Palmas, 0.00076
+Calafell, Tarragona, 0.0008
+Valls, Tarragona, 0.00076
+Erandio, Vizcaya, 0.00076
+Martos, Jaén, 0.00076
+Cambre, La Coruña, 0.00076
+Armilla, Granada, 0.00075
+Alboraya, Valencia, 0.00075
+Calahorra, La Rioja, 0.00075
+Ciempozuelos, Madrid, 0.00075
+Tacoronte, Santa Cruz de Tenerife, 0.00075
+Cambre, La Coruña, 0.00074
+Castellar del Vallés, Barcelona, 0.00074
+Puebla de Vallbona, Valencia, 0.00073
+Ibi, Alicante, 0.00073
+Montilla, Córdoba, 0.00073
+Los Barrios, Cádiz, 0.00073
+Almonte, Huelva, 0.00073
+Torrelodones, Madrid, 0.00072
+El Masnou, Barcelona, 0.00072
+Mairena del Alcor, Sevilla, 0.00072
+Zarauz, Guipúzcoa, 0.00072
+Ponteareas, Pontevedra, 0.00072
+Icod de los Vinos, Santa Cruz de Tenerife, 0.00072
+Mejorada del Campo, Madrid, 0.00072
+San Juan de Alicante, Alicante, 0.00072
+Palafrugell, Gerona, 0.00072
+Priego de Córdoba, Córdoba, 0.00072
+Liria, Valencia, 0.00071
+Barbate, Cádiz, 0.00071
+Bétera, Valencia, 0.00071
+Laguna de Duero, Valladolid, 0.00071
+Castrillón, Asturias, 0.00071
+Conil de la Frontera, Cádiz, 0.0007
+Cullera, Valencia, 0.00069
+Maracena, Granada, 0.00069
+Mondragón, Guipúzcoa, 0.00069
+Vilaseca, Tarragona, 0.00069
+Esparraguera, Barcelona, 0.00068
+San Felíu de Guixols, Gerona, 0.00068
+Alcalá la Real, Jaén, 0.00068
+Altea, Alicante, 0.00068
+Teguise, Las Palmas, 0.00068
+Moncada, Valencia, 0.00068
+San Juan de Aznalfarache, Sevilla, 0.00068
+Ribarroja del Turia, Valencia, 0.00067
+Alfaz del Pi, Alicante, 0.00067
+Coín, Málaga, 0.00067
+Moguer, Huelva, 0.00067
+Pilar de la Horadada, Alicante, 0.00067
+Las Torres de Cotillas, Murcia, 0.00067
+Alhama de Murcia, Murcia, 0.00067
+Palma del Río, Córdoba, 0.00067
+Nerja, Málaga, 0.00066
+Isla Cristina, Huelva, 0.00066
+Mogán, Las Palmas, 0.00066
+La Estrada, Pontevedra, 0.00065
+Alfafar, Valencia, 0.00065
+Medina del Campo, Valladolid, 0.00065
+Cabra, Córdoba, 0.00065
+Baza, Granada, 0.00065
+Amposta, Tarragona, 0.00065
+Loja, Granada, 0.00065
+Ayamonte, Huelva, 0.00065
+Carcagente, Valencia, 0.00064
+Requena, Valencia, 0.00064
+Picasent, Valencia, 0.00064
+Aspe, Alicante, 0.00064
+Guía de Isora, Santa Cruz de Tenerife, 0.00064
+Barañáin, Navarra, 0.00063
+Algete, Madrid, 0.00064
+Calatayud, Zaragoza, 0.00063
+Manlleu, Barcelona, 0.00063
+Lalín, Pontevedra, 0.00063
+Los Llanos de Aridane, Santa Cruz de Tenerife, 0.00063
+Tías, Las Palmas, 0.00063
